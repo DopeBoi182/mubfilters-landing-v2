@@ -1,0 +1,132 @@
+{
+    "language": "Language",
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "3dmodel": "3D Model",
+        "services": "Services",
+        "team": "Our Team",
+        "contact": "Contact"
+    },
+    "portfolio": {
+        "title": "Portfolio",
+        "subtitle": "CHECK OUR PORTFOLIO"
+    },
+    "hero": {
+        "title": "Welcome to Mubfilters",
+        "subtitle": "Quality Filters For a Better Cigarette"
+    },
+    "3dmodel": {
+        "title": "Explore Our Filters in 3D",
+        "subtitle": "Interact with our high-quality cigarette filters in 3D",
+        "description": "Experience our premium filter quality through this interactive 3D model. You can rotate, zoom, and examine every detail of our cigarette filters.",
+        "instructions": "Use your mouse to rotate, scroll to zoom, and right-click to pan",
+        "regular": "Regular",
+        "capsule": "Capsule",
+        "mentholfix": "Menthol Fix",
+        "features": {
+            "visualization": "3D Visualization",
+            "visualization.desc": "Examine every detail of our filters",
+            "interaction": "Interactive",
+            "interaction.desc": "Rotate, zoom, and explore freely",
+            "mobile": "Mobile Ready",
+            "mobile.desc": "Works perfectly on all devices"
+        }
+    },
+    "about": {
+        "title": "About Mulia Usaha Bersama",
+        "description": "PT Mulia Usaha Bersama (MUB) is a manufacturing company located in Malang, a picturesque mountain town known for its cigarette factories. Founded in 2013, we help fulfill the demands of the growing cigarette industry in Indonesia and across South East Asia."
+    },
+    "services": {
+        "title": "Our Services",
+        "subtitle": "We produce and supply quality filters to the cigarette industry across Indonesia and abroad",
+        "regular": {
+            "title": "Filter Mono",
+            "description": "Diameter: 7.7mm / 7.8mm\nLength: 100mm / 108mm / 120mm / 132mm\nPD and hardness customizable"
+        },
+        "mild": {
+            "title": "Filter Capsule",
+            "description": "Diameter: 6.9mm\nLength: 92mm / 100mm / 108mm / 120mm / 132mm\nPD and hardness customizable"
+        },
+        "bold": {
+            "title": "Filter Super Slim",
+            "description": "Diameter: 7.4mm\nLength: 92mm / 100mm / 108mm / 120mm / 132mm\nPD and hardness customizable"
+        }
+    },
+    "team": {
+        "title": "Our Team",
+        "subtitle": "Our dedicated team is always here to serve you",
+        "members": {
+            "kastin": {
+                "name": "Kastin",
+                "role": "Marketing Director"
+            },
+            "uswah": {
+                "name": "Uswah",
+                "role": "Logistics, General Affair, Sales"
+            },
+            "vaughan": {
+                "name": "Vaughan",
+                "role": "Managing Director"
+            }
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "Welcome to drop by at our factory or call us at anytime",
+        "address": "Jl. Raya Karangpandan No.13, Karangpandan, Kec. Pakisaji, Kabupaten Malang, Jawa Timur 65162",
+        "phone": "+62341-3906005",
+        "email": "info@mubfilters.com",
+        "form": {
+            "name": "Your Name",
+            "email": "Your Email",
+            "subject": "Subject",
+            "message": "Message",
+            "submit": "Send Message"
+        }
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "questions": [{
+                "question": "How much is the price for Mild filters?",
+                "form": {
+                    "name": "Your Name",
+                    "phone": "Phone Number",
+                    "email": "Email",
+                    "question": "Your Question",
+                    "submit": "Submit Question"
+                }
+            },
+            {
+                "question": "How much is the price for Regular filters?",
+                "form": {
+                    "name": "Your Name",
+                    "phone": "Phone Number",
+                    "email": "Email",
+                    "question": "Your Question",
+                    "submit": "Submit Question"
+                }
+            },
+            {
+                "question": "How much is the price for Bold filters?",
+                "form": {
+                    "name": "Your Name",
+                    "phone": "Phone Number",
+                    "email": "Email",
+                    "question": "Your Question",
+                    "submit": "Submit Question"
+                }
+            }
+        ]
+    },
+    "footer": {
+        "quickLinks": "Quick Links",
+        "services": "Our Services",
+        "newsletter": {
+            "title": "Contact Our Team",
+            "description": "Interested in our filters? Reach out to our team for more information!",
+            "button": "Get in Touch"
+        },
+        "copyright": "© Copyright Mubfilters All Rights Reserved"
+    }
+}

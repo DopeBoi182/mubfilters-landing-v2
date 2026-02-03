@@ -1,0 +1,23 @@
+# robots.txt for mubfilters.com
+User-agent: *
+Allow: /
+
+# Disallow admin or sensitive directories (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://www.mubfilters.com/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
+
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.mubfilters.com/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://www.mubfilters.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.mubfilters.com/" />
+  </url>
+  
+  <!-- About Section -->
+  <url>
+    <loc>https://www.mubfilters.com/#about</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Services Section -->
+  <url>
+    <loc>https://www.mubfilters.com/#services</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Team Section -->
+  <url>
+    <loc>https://www.mubfilters.com/#team</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Contact Section -->
+  <url>
+    <loc>https://www.mubfilters.com/#contact</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- 3D Model Section -->
+  <url>
+    <loc>https://www.mubfilters.com/#model-3d</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Products Section (Filter Rods) -->
+  <url>
+    <loc>https://www.mubfilters.com/#products</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
+

@@ -1,0 +1,132 @@
+{
+    "language": "Bahasa",
+    "nav": {
+        "home": "Beranda",
+        "about": "Tentang Kami",
+        "3dmodel": "Model 3D",
+        "services": "Layanan",
+        "team": "Tim Kami",
+        "contact": "Kontak"
+    },
+    "portfolio": {
+        "title": "Portofolio",
+        "subtitle": "LIHAT PORTOFOLIO KAMI"
+    },
+    "hero": {
+        "title": "Selamat Datang di Mubfilters",
+        "subtitle": "Filter Berkualitas untuk Rokok yang Lebih Baik"
+    },
+    "3dmodel": {
+        "title": "Jelajahi Filter Kami dalam 3D",
+        "subtitle": "Berinteraksi dengan filter rokok berkualitas tinggi kami dalam 3D",
+        "description": "Rasakan kualitas filter premium kami melalui model 3D interaktif ini. Anda dapat memutar, memperbesar, dan memeriksa setiap detail filter rokok kami.",
+        "instructions": "Gunakan mouse untuk memutar, scroll untuk zoom, dan klik kanan untuk menggeser",
+        "regular": "Reguler",
+        "capsule": "Kapsul",
+        "mentholfix": "Menthol Fix",
+        "features": {
+            "visualization": "Visualisasi 3D",
+            "visualization.desc": "Periksa setiap detail filter kami",
+            "interaction": "Interaktif",
+            "interaction.desc": "Putar, zoom, dan jelajahi dengan bebas",
+            "mobile": "Siap Mobile",
+            "mobile.desc": "Bekerja sempurna di semua perangkat"
+        }
+    },
+    "about": {
+        "title": "Tentang Mulia Usaha Bersama",
+        "description": "PT Mulia Usaha Bersama (MUB) adalah perusahaan manufaktur yang berlokasi di Malang, kota pegunungan yang terkenal dengan pabrik rokoknya. Didirikan pada tahun 2013, kami membantu memenuhi kebutuhan industri rokok yang berkembang di Indonesia dan Asia Tenggara."
+    },
+    "services": {
+        "title": "Layanan Kami",
+        "subtitle": "Kami memproduksi dan memasok filter berkualitas untuk industri rokok di Indonesia dan luar negeri",
+        "regular": {
+            "title": "Filter Mono",
+            "description": "Diameter: 7,7mm / 7,8mm\nPanjang: 100mm / 108mm / 120mm / 132mm\nPD dan kekerasan dapat disesuaikan"
+        },
+        "mild": {
+            "title": "Filter Kapsul",
+            "description": "Diameter: 6,9mm\nPanjang: 92mm / 100mm / 108mm / 120mm / 132mm\nPD dan kekerasan dapat disesuaikan"
+        },
+        "bold": {
+            "title": "Filter Super Slim",
+            "description": "Diameter: 7,4mm\nPanjang: 92mm / 100mm / 108mm / 120mm / 132mm\nPD dan kekerasan dapat disesuaikan"
+        }
+    },
+    "team": {
+        "title": "Tim Kami",
+        "subtitle": "Tim kami yang berdedikasi selalu siap melayani Anda",
+        "members": {
+            "kastin": {
+                "name": "Kastin",
+                "role": "Direktur Pemasaran"
+            },
+            "uswah": {
+                "name": "Uswah",
+                "role": "Logistik, Urusan Umum, Penjualan"
+            },
+            "vaughan": {
+                "name": "Vaughan",
+                "role": "Direktur Utama"
+            }
+        }
+    },
+    "contact": {
+        "title": "Hubungi Kami",
+        "subtitle": "Selamat datang untuk berkunjung ke pabrik kami atau hubungi kami kapan saja",
+        "address": "Jl. Raya Karangpandan No.13, Karangpandan, Kec. Pakisaji, Kabupaten Malang, Jawa Timur 65162",
+        "phone": "+62341-3906005",
+        "email": "info@mubfilters.com",
+        "form": {
+            "name": "Nama Anda",
+            "email": "Email Anda",
+            "subject": "Subjek",
+            "message": "Pesan",
+            "submit": "Kirim Pesan"
+        }
+    },
+    "faq": {
+        "title": "Pertanyaan yang Sering Diajukan",
+        "questions": [{
+                "question": "Berapa harga filter Mild?",
+                "form": {
+                    "name": "Nama Anda",
+                    "phone": "Nomor Telepon",
+                    "email": "Email",
+                    "question": "Pertanyaan Anda",
+                    "submit": "Kirim Pertanyaan"
+                }
+            },
+            {
+                "question": "Berapa harga filter Reguler?",
+                "form": {
+                    "name": "Nama Anda",
+                    "phone": "Nomor Telepon",
+                    "email": "Email",
+                    "question": "Pertanyaan Anda",
+                    "submit": "Kirim Pertanyaan"
+                }
+            },
+            {
+                "question": "Berapa harga filter Bold?",
+                "form": {
+                    "name": "Nama Anda",
+                    "phone": "Nomor Telepon",
+                    "email": "Email",
+                    "question": "Pertanyaan Anda",
+                    "submit": "Kirim Pertanyaan"
+                }
+            }
+        ]
+    },
+    "footer": {
+        "quickLinks": "Tautan Cepat",
+        "services": "Layanan Kami",
+        "newsletter": {
+            "title": "Hubungi Tim Kami",
+            "description": "Tertarik dengan filter kami? Hubungi tim kami untuk informasi lebih lanjut!",
+            "button": "Hubungi Kami"
+        },
+        "copyright": "© Hak Cipta Mubfilters Seluruh Hak Dilindungi"
+    }
+}
